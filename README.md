@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **QMByte@gmail.com**
 
-- 📄 Know about my experiences [https://sh4y4n.rf.gd](https://sh4y4n.rf.gd)
+- 📄 My resume at [https://sh4y4n.rf.gd](https://sh4y4n.rf.gd)
 
 - ⚡ Fun fact **Learning Linux is impossible.**
 
