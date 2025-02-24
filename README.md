@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">A Programmer from Iran</h3>
 
-- 🔭 I’m currently working on [Open River Protocol](https://github.com/shayan-gol/OpenRiver)
+- 🔭 I’m currently working on LOX WEB
 
 - 🌱 I’m currently learning **chart.js**
 
 - 📫 How to reach me **QMByte@gmail.com**
 
-- 📄 My resume at [https://sh4y4n.rf.gd](https://sh4y4n.rf.gd)
+- 📄 My resume at [here](https://shayan-gol.github.io)
 
 - ⚡ Fun fact **Learning Linux is impossible.**
 
